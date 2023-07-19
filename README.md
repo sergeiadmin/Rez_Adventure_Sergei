@@ -1,4 +1,4 @@
-# Notepad Application
+# Rez_Adventure_Application
 
 ## Описание
 
